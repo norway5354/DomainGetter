@@ -49,7 +49,7 @@ class DomainGetter:
         """
         url = "https://reverse-whois.whoisxmlapi.com/api/v2"
         payload = {
-            "apiKey": "at_5Rao2Fn4hARnSfN1vOoVtftvMNXN7",
+            "apiKey": "",
             "searchType": "current",
             "mode": "purchase",
             "punycode": True,
